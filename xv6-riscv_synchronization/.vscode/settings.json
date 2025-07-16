@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "riscv.h": "c",
+        "defs.h": "c",
+        "proc.h": "c",
+        "memlayout.h": "c",
+        "petersonlock.h": "c",
+        "param.h": "c",
+        "user.h": "c"
+    },
+}
